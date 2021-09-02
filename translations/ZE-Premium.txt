@@ -1,0 +1,262 @@
+"Phrases"
+{
+	"no_human"
+	{
+		"en"		"You have to be a human!"
+		"chi"		"你必须是人类!"
+	}
+	
+	"player_respawned"
+	{
+		"en"		"You was respawned!"
+		"chi"		"你重新复活了!"
+	}
+
+	"zombie_respawned"
+	{
+		"#format"	"{1:i}"
+		"en"		"You was respawned, you have {green}{1}{default} uses left!"
+		"chi"		"你重生了，你有 {green}{1}{default} 使用左!"
+	}
+
+	"no_leader"
+	{
+		"en"		"You are not leader!"
+		"chi"		"你不是领队!"
+	}
+	
+	"chosen_gun"
+	{
+		"#format"	"{1:s}"
+		"en"		"You chosen {green}{1}{default} gun!"
+		"chi"		"你选择了 {green}{1}{default} 武器!"
+	}
+	
+	"get_the_gun"
+	{
+		"en"		"To get it, write in chat: {green}/get"
+		"chi"		"要获得它，请在聊天中输入： {green}/get"
+	}
+	
+	"gun_uses_left"
+	{
+		"#format"	"{1:i}"
+		"en"		"You got your {green}chosen guns{default}, you have {purple}{1}{default} uses left!"
+		"chi"		"你有你的 {green}选择的枪{default}, 你有 {purple}{1}{default} 使用左!"
+	}
+	
+	"maxium_usages_gunmenu"
+	{
+		"en"		"You have maxium usage of weapon menu!"
+		"chi"		"您可以最大限度地使用武器菜单!"
+
+	}
+	
+	"choose_gun_first"
+	{
+		"en"		"Choose some guns first!"
+		"chi"		"先选几把枪!"
+	}
+
+	"infected_disconnected"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Infected zombie {green}{1}{default} has disconnect from server, he recived punishment on {purple}{2}{default} rounds!"
+		"chi"		"受感染的僵尸 {green}{1}{default}已与服务器断开连接，他受到了惩罚 {purple}{2}{default} 回合!"
+	}
+	
+	"samegun_false"
+	{
+		"en"		"You chosen to {green}disable{default} same guns every round!"
+		"chi"		"你选择了 {green}disable{default} 每轮都用同样的枪!"
+	}
+	
+	"samegun_true"
+	{
+		"en"		"You chosen to {green}enable{default} same guns every round!"
+		"chi"		"你选择了{green}启用{default} 每一轮都用同样的枪！"
+	}
+	
+	"chosen_class"
+	{
+		"#format"	"{1:s}"
+		"en"		"You chosen {green}{1}{default} class, you will get it after you respawn"
+		"chi"		"你选择了 {green}{1}{default} 类别, 重生后你会得到它"
+	}
+	
+	"chosen_class"
+	{
+		"#format"	"{1:s}"
+		"en"		"You chosen {green}{1}{default} class, you will get it after you respawn"
+		"chi"		"你选择了 {green}{1}{default} 类别, 重生后你会得到它"
+	}
+	
+	"bought_item"
+	{
+		"#format"	"{1:s}"
+		"en"		"You bought {green}{1}{default} from shop"
+		"chi"		"你买了 {green}{1}{default} 来自商城"
+	}
+	
+	"not_enough_money"
+	{
+		"en"		"You don't have enough money!"
+		"chi"		"你没有足够的钱!"
+	}
+	
+	"no_zombie"
+	{
+		"en"		"You have to be a zombie!"
+		"chi"		"你必须是僵尸!"
+	}
+	
+	"not_enough_infection_nades"
+	{
+		"en"		"You can't buy infection nade, because left 0 infection nades!"
+		"chi"		"您不能购买感染手雷，因为还剩 0 个感染手雷！"
+	}
+	
+	"infection_timer_paused"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {green}{1}{default} paused infection timer!"
+		"chi"		"Admin {green}{1}{default} 暂停了感染计时器!"
+	}
+	
+	"infection_timer_unpaused"
+	{
+		"#format"	"{1:N}"
+		"en"		"Admin {green}{1}{default} unpaused infection timer!"
+		"chi"		"Admin {green}{1}{default} 取消暂停感染计时器!"
+	}
+	
+	"nextround_infection_timer"
+	{
+		"en"		"Infection timer expired, wait for next round!"
+		"chi"		"感染计时器超时，等待下一轮！"
+	}
+	
+	"beacon_on"
+	{
+		"en"		"You turned {green}on{default} beacon!"
+		"chi"		"你 {green}开启了{default} 信标!"
+	}
+	
+	"beacon_off"
+	{
+		"en"		"You turned {green}off{default} beacon!"
+		"chi"		"你 {green}关闭了{default} 信标!"
+	}
+	
+	"defend_marker_spawned"
+	{
+		"en"		"You spawned {green}defend{default} marker!"
+		"chi"		"你复活在 {green}防守{default} 标记!"
+	}
+	
+	"defend_marker_removed"
+	{
+		"en"		"You removed {green}defend{default} marker!"
+		"chi"		"你删除了 {green}防守{default} 标记!"
+	}
+	
+	"chosen_defend_sprite"
+	{
+		"en"		"You chosen {green}defend{default} sprite!"
+		"chi"		"你选择了 {green}防守{default} sprite!"
+	}
+	
+	"chosen_follow_sprite"
+	{
+		"en"		"You chosen {green}follow-me{default} sprite!"
+		"chi"		"你选择了 {green}跟我来{default} sprite!"
+	}
+	
+	"sprite_removed"
+	{
+		"en"		"You removed sprite!"
+		"en"		"你删除了 sprite!"
+
+	}
+	
+	"swaped_to_zombies"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"Player {green}{1}{default} was swaped to ZOMBIES by {purple}{2}{default} admin!"
+		"chi"		"玩家： {green}{1}{default} 被换做了僵尸 {purple}{2}{default} 原因:来自管理员!"
+	}
+	
+	"swaped_to_humans"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"Player {green}{1}{default} was swaped to HUMANS by {purple}{2}{default} admin!"
+		"chi"		"玩家 {green}{1}{default} 被换做了人类 {purple}{2}{default} 来自管理员!"
+	}
+	
+	"removed_from_leader"
+	{
+		"en"		"You was removed from leader position!"
+		"chi"		"你被免去领队任务"
+	}
+	
+	"new_leader"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {green}{1}{default} is new LEADER!"
+		"chi"		"玩家 {green}{1}{default}是新的领队"
+	}
+	
+	"leader_died"
+	{
+		"#format"	"{1:N}"
+		"en"		"Leader {green}{1}{default} has died!"
+		"chi"		"领队 {green}{1}{default} 已阵亡!"
+	}
+	
+	"player_is_dead"
+	{
+		"en"		"Player is dead or not a human!"
+		"chi"		"玩家是死的还是不是人！"
+	}
+	
+	"infection_ban"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"Player {green}{1}{default} got infection ban on {purple}{2}{default} rounds!"
+		"chi"		"玩家 {green}{1}{default} 禁止感染 {purple}{2}{default} 回合!"
+	}
+	
+	"infection_unban"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {green}{1}{default} was unbanned from infection ban!"
+		"chi"		"玩家 {green}{1}{default} 被解除感染禁令!"
+	}
+	
+	"infected_by_player"
+	{
+		"#format"	"{1:N}"
+		"en"		"You was infected by {green}{1}{default}, now you have to infect other players!"
+		"chi"		"你被感染了 {green}{1}{default}, 现在你必须感染其他玩家!"
+	}
+	
+	"infected_frag"
+	{
+		"#format"	"{1:N}"
+		"en"		"You got {green}1{default} frag for infecting {purple}{1}{default}!"
+		"chi"		"你得到了 {green}1{default} 用于感染的碎片 {purple}{1}{default}!"
+	}
+	
+	"first_infected"
+	{
+		"#format"	"{1:N}"
+		"en"		"Player {green}{1}{default} is first zombie! Apocalypse has started!"
+		"chi"		"玩家 {green}{1}{default} 是第一个僵尸！ 启示录开始了！"
+	}
+	
+	"riot_round"
+	{
+		"en"		"This round is {purple}ZOMBIE RIOT ROUND{default}!!!"
+		"chi"		"这一轮是 {purple} 僵尸暴动回合,注意啦,别被僵尸吃掉了{default}!!!"
+	}
+}
